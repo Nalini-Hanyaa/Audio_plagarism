@@ -1,30 +1,30 @@
 This repository contains two Streamlit-based applications for detecting music plagiarism. Each application performs a specific task to compare audio files based on their musical key and tempo.
 
-1. Tune Plagiarism Detection App
+**1. Tune Plagiarism Detection App**
 
 **Description**
 
 This application allows users to upload two audio files and compare them to check for potential plagiarism by analyzing their musical key and tempo.
 
-Execution Process
+**Execution Process**
 
-Prerequisites:
+**Prerequisites:**
 
 Install Python 3.8 or above.
 
-Install the required libraries:
+**Install the required libraries:**
 
 pip install streamlit librosa numpy soundfile
 
-Run the Application:
+**Run the Application:**
 
 Save the tune_plagiarism_deploy.py file locally.
 
 Open a terminal and navigate to the file's directory.
 
-Run the Streamlit app using the following command:
+**Run the Streamlit app using the following command:**
 
-streamlit run tune_plagiarism_deploy.py
+'''streamlit run tune_plagiarism_deploy.py
 
 How to Use:
 
