@@ -22,9 +22,12 @@ Save the tune_plagiarism_deploy.py file locally.
 
 Open a terminal and navigate to the file's directory.
 
-**Run the Streamlit app using the following command:**
+### Run the Streamlit App
+To start the application, use the following command in your terminal:
 
-'''streamlit run tune_plagiarism_deploy.py
+```bash
+streamlit run tune_plagiarism_deploy.py
+```
 
 How to Use:
 
